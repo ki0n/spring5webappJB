@@ -1,0 +1,9 @@
+<changelist name="Default_Changelist" date="1558218893675" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/shelved.patch" />
+  <option name="DESCRIPTION" value="Default Changelist" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".mvn/wrapper/maven-wrapper.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/maven-wrapper.jar" />
+  </binary>
+</changelist>
